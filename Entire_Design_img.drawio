@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T06:53:12.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="f-hsiIKDdszntFEjcZ8H" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T07:08:33.679Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="NpytSe9jsgIxv2J2AlPI" version="20.8.23" type="github" pages="2">
   <diagram name="ページ1" id="7I-GueYLYuS8OoqB9kIb">
-    <mxGraphModel dx="757" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,6 +12,32 @@
         </mxCell>
         <mxCell id="THGPExbEvkUyEw64n3EA-4" value="AAP Hybrid node1" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
           <mxGeometry x="270" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="K8bxTA8n5DB7aK1uPyEu" name="RAAP">
+    <mxGraphModel dx="1661" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZGLVL4_sWmrHyAFDYF4L-1" value="&lt;div style=&quot;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="234" y="189" width="430" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGLVL4_sWmrHyAFDYF4L-3" value="&lt;div style=&quot;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="224" y="179" width="430" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGLVL4_sWmrHyAFDYF4L-4" value="&lt;h4&gt;AAP Hybrid Node (on robin VM)&lt;/h4&gt;&lt;div style=&quot;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;imageVerticalAlign=middle;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="214" y="169" width="430" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGLVL4_sWmrHyAFDYF4L-5" value="" style="points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.305,0.305,0],[0.695,0.305,0],[0.7,0.7,0],[0.3,0.7,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=aci;fillColor=#FAFAFA;strokeColor=#005073;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="810" y="260" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGLVL4_sWmrHyAFDYF4L-6" value="Custom EE Container" style="swimlane;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="424" y="209" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGLVL4_sWmrHyAFDYF4L-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/socialcones/508/Gitlab-128.png;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="791" y="70" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
