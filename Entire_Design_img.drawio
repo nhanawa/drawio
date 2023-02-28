@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T06:23:57.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Q_nUx79jdvXuSv2DPLcI" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T06:53:12.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="f-hsiIKDdszntFEjcZ8H" version="20.8.23" type="github">
   <diagram name="ページ1" id="7I-GueYLYuS8OoqB9kIb">
     <mxGraphModel dx="757" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="THGPExbEvkUyEw64n3EA-1" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="130" y="100" width="80" height="80" as="geometry" />
+        <mxCell id="THGPExbEvkUyEw64n3EA-2" value="木場 gitlab" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/socialcones/508/Gitlab-128.png" vertex="1" parent="1">
+          <mxGeometry x="170" y="80" width="118" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="THGPExbEvkUyEw64n3EA-3" value="Artifactory" style="image;html=1;image=img/lib/clip_art/networking/Cloud_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="360" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGPExbEvkUyEw64n3EA-4" value="AAP Hybrid node1" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="270" y="280" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
